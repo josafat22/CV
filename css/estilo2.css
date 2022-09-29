@@ -1,0 +1,58 @@
+body{
+  background-color: rgb(194, 196, 183);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1{
+  font-size: 3rem;
+  text-align: center;
+
+  text-transform: uppercase;
+}
+h2{
+  background-color:rgb(94, 92, 94);
+  font-size: 2rem;
+  text-decoration: underline;
+}
+
+h3{
+  background-color: rgb(128, 135, 134);
+  color: black;
+  font-size: 1.5rem;
+}
+p{
+  text-align: justify;
+}
+
+strong{
+  color: Blue;
+}
+p3{
+  color: black;
+}
+
+blockquote{
+  font-style: oblique;
+}
+#uno{
+  background-color: hsl(39, 83%, 46%);
+  color: black;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+pre{
+  background-color: gray;
+  font-size: 1rem;
+  font-weight: bold;
+}
+pree{
+  background-color: white;
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+address{
+  font-family: serif;
+  font-style: normal;
+  text-align: right;
+}
